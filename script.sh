@@ -7,3 +7,5 @@ var c = 70
 var d = 90
 
 var e = 60
+
+var f = 30
